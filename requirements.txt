@@ -1,0 +1,20 @@
+# Reconnaissance vocale offline
+vosk==0.3.45
+
+# Synthèse vocale offline
+pyttsx3==2.90
+
+# NLP offline
+spacy==3.6.1
+# Modèles locaux pour NLP
+# python -m spacy download fr_core_news_sm
+# python -m spacy download en_core_web_sm
+
+# Pour automation et contrôle du système
+pyautogui==0.9.53
+
+# Gestion des fichiers et scripts système
+pynput==1.8.0
+
+# Interface graphique offline
+PyQt5==5.15.9
